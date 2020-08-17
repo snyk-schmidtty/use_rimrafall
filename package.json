@@ -1,0 +1,13 @@
+{
+  "name": "use_rimrafall",
+  "version": "0.0.1",
+  "description": "A vulnerable demo application",
+  "homepage": "https://snyk.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snyk-schmidtty/use_rimrafall"
+  },
+  "dependencies": {
+    "rimrafall": "1.0.0"
+  }
+}
